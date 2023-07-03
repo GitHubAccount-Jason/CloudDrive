@@ -1,0 +1,30 @@
+vim.cmd('set rnu')
+vim.cmd('set guifont=JetBrainsMono\\ Nerd\\ Font\\ Mono:h11:cANSI')
+vim.cmd('set termguicolors')
+vim.cmd('set nobackup')
+vim.cmd('set noswapfile')
+vim.cmd('set nowritebackup')
+vim.cmd('set noundofile')
+vim.cmd('set foldenable')
+vim.cmd('set foldcolumn=4')
+vim.cmd('set foldlevel=0')
+vim.cmd('set foldmethod=marker')
+vim.cmd('set nowrap')
+vim.cmd('set tabstop=2')
+vim.cmd('set softtabstop=2')
+vim.cmd('set shiftwidth=2')
+vim.cmd('set expandtab ')
+vim.cmd('set nu  ')
+vim.cmd('set autoindent ')
+vim.cmd('set cindent')
+vim.cmd('set backspace=indent,eol,start')
+vim.cmd('inoremap jk <Esc>')
+vim.cmd('nnoremap ; :')
+vim.g.mapleader = " "
+vim.g.maplocalleader = " "
+vim.cmd('set cursorline')
+vim.cmd('hi! CursorLine guibg=#393939')
+vim.cmd('set laststatus=0')
+vim.o.timeout = true
+vim.o.timeoutlen = 500
+
