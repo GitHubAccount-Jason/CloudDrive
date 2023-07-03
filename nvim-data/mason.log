@@ -1,0 +1,153 @@
+[ERROR 2023/4/10 19:21:07] ...ta/lazy/mason.nvim/lua/mason-registry/sources/github.lua:170: Failed to install registry GitHubRegistrySource(repo=mason-org/mason-registry). "Failed to download checksums.txt."
+[INFO  2023/4/10 20:28:12] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:166: Executing installer for Package(name=lua-language-server) {}
+[INFO  2023/4/10 20:29:36] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:193: Installation succeeded for Package(name=lua-language-server)
+[ERROR 2023/4/14 19:56:03] ...m-data/lazy/mason.nvim/lua/mason-core/providers/init.lua:75: Provider "github" "get_latest_release" failed: spawn: powershell failed with exit code 1 and signal 0. iwr : The remote name could not be resolved: 'api.mason-registry.dev'
+At line:1 char:174
++ ... ite-Output (iwr -Headers @{"User-Agent"="mason.nvim (+https://github. ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (System.Net.HttpWebRequest:HttpWebRequest) [Invoke-WebRequest], WebExc 
+   eption
+    + FullyQualifiedErrorId : WebCmdletWebResponseException,Microsoft.PowerShell.Commands.InvokeWebRequestCommand
+ 
+
+[ERROR 2023/4/14 19:56:04] ...m-data/lazy/mason.nvim/lua/mason-core/providers/init.lua:75: Provider "github" "get_latest_release" failed: spawn: powershell failed with exit code 1 and signal 0. iwr : The remote name could not be resolved: 'api.github.com'
+At line:1 char:174
++ ... ite-Output (iwr -Headers @{"User-Agent"="mason.nvim (+https://github. ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (System.Net.HttpWebRequest:HttpWebRequest) [Invoke-WebRequest], WebExc 
+   eption
+    + FullyQualifiedErrorId : WebCmdletWebResponseException,Microsoft.PowerShell.Commands.InvokeWebRequestCommand
+ 
+
+[ERROR 2023/4/14 19:56:04] ...m-data/lazy/mason.nvim/lua/mason-core/providers/init.lua:86: No provider implementation succeeded for github.get_latest_release
+[ERROR 2023/4/14 19:56:04] ...ta/lazy/mason.nvim/lua/mason-registry/sources/github.lua:170: Failed to install registry GitHubRegistrySource(repo=mason-org/mason-registry). "Failed to fetch latest registry version from GitHub API."
+[ERROR 2023/4/14 19:56:24] ...m-data/lazy/mason.nvim/lua/mason-core/providers/init.lua:75: Provider "github" "get_latest_release" failed: spawn: powershell failed with exit code 1 and signal 0. iwr : The remote name could not be resolved: 'api.mason-registry.dev'
+At line:1 char:174
++ ... ite-Output (iwr -Headers @{"User-Agent"="mason.nvim (+https://github. ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (System.Net.HttpWebRequest:HttpWebRequest) [Invoke-WebRequest], WebExc 
+   eption
+    + FullyQualifiedErrorId : WebCmdletWebResponseException,Microsoft.PowerShell.Commands.InvokeWebRequestCommand
+ 
+
+[ERROR 2023/4/14 19:56:25] ...m-data/lazy/mason.nvim/lua/mason-core/providers/init.lua:75: Provider "github" "get_latest_release" failed: spawn: powershell failed with exit code 1 and signal 0. iwr : The remote name could not be resolved: 'api.github.com'
+At line:1 char:174
++ ... ite-Output (iwr -Headers @{"User-Agent"="mason.nvim (+https://github. ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (System.Net.HttpWebRequest:HttpWebRequest) [Invoke-WebRequest], WebExc 
+   eption
+    + FullyQualifiedErrorId : WebCmdletWebResponseException,Microsoft.PowerShell.Commands.InvokeWebRequestCommand
+ 
+
+[ERROR 2023/4/14 19:56:25] ...m-data/lazy/mason.nvim/lua/mason-core/providers/init.lua:86: No provider implementation succeeded for github.get_latest_release
+[ERROR 2023/4/14 19:56:25] ...ta/lazy/mason.nvim/lua/mason-registry/sources/github.lua:170: Failed to install registry GitHubRegistrySource(repo=mason-org/mason-registry). "Failed to fetch latest registry version from GitHub API."
+[INFO  2023/4/27 18:23:52] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:166: Executing installer for Package(name=lua-language-server) {}
+[INFO  2023/4/27 18:23:59] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:166: Executing installer for Package(name=pyright) {}
+[INFO  2023/4/27 18:24:04] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:193: Installation succeeded for Package(name=lua-language-server)
+[INFO  2023/4/27 18:24:24] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:193: Installation succeeded for Package(name=pyright)
+[ERROR 2023/4/28 22:24:56] ...m-data/lazy/mason.nvim/lua/mason-core/providers/init.lua:75: Provider "github" "get_latest_release" failed: spawn: powershell failed with exit code 1 and signal 0. iwr : The remote name could not be resolved: 'api.mason-registry.dev'
+At line:1 char:174
++ ... ite-Output (iwr -Headers @{"Accept"="application/vnd.mason-registry.v ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (System.Net.HttpWebRequest:HttpWebRequest) [Invoke-WebRequest], WebExc 
+   eption
+    + FullyQualifiedErrorId : WebCmdletWebResponseException,Microsoft.PowerShell.Commands.InvokeWebRequestCommand
+ 
+
+[ERROR 2023/4/28 22:24:57] ...m-data/lazy/mason.nvim/lua/mason-core/providers/init.lua:75: Provider "github" "get_latest_release" failed: spawn: powershell failed with exit code 1 and signal 0. iwr : The remote name could not be resolved: 'api.github.com'
+At line:1 char:174
++ ... ite-Output (iwr -Headers @{"Accept"="application/vnd.github.v3+json;  ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (System.Net.HttpWebRequest:HttpWebRequest) [Invoke-WebRequest], WebExc 
+   eption
+    + FullyQualifiedErrorId : WebCmdletWebResponseException,Microsoft.PowerShell.Commands.InvokeWebRequestCommand
+ 
+
+[ERROR 2023/4/28 22:24:57] ...m-data/lazy/mason.nvim/lua/mason-core/providers/init.lua:86: No provider implementation succeeded for github.get_latest_release
+[ERROR 2023/4/28 22:24:57] ...ta/lazy/mason.nvim/lua/mason-registry/sources/github.lua:170: Failed to install registry GitHubRegistrySource(repo=mason-org/mason-registry). "Failed to fetch latest registry version from GitHub API."
+[ERROR 2023/4/28 22:25:07] ...m-data/lazy/mason.nvim/lua/mason-core/providers/init.lua:75: Provider "npm" "get_latest_version" failed: spawn: powershell failed with exit code 1 and signal 0. iwr : The remote name could not be resolved: 'api.mason-registry.dev'
+At line:1 char:174
++ ... ite-Output (iwr -Headers @{"Accept"="application/vnd.mason-registry.v ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (System.Net.HttpWebRequest:HttpWebRequest) [Invoke-WebRequest], WebExc 
+   eption
+    + FullyQualifiedErrorId : WebCmdletWebResponseException,Microsoft.PowerShell.Commands.InvokeWebRequestCommand
+ 
+
+[ERROR 2023/4/28 22:26:19] ...m-data/lazy/mason.nvim/lua/mason-core/providers/init.lua:75: Provider "npm" "get_latest_version" failed: spawn: npm.cmd failed with exit code 1 and signal 0. npm ERR! code ENOTFOUND
+npm ERR! syscall getaddrinfo
+npm ERR! errno ENOTFOUND
+npm ERR! network request to https://registry.npmjs.org/pyright failed, reason: getaddrinfo ENOTFOUND registry.npmjs.org
+npm ERR! network This is a problem related to network connectivity.
+npm ERR! network In most cases you are behind a proxy or have bad network settings.
+npm ERR! network 
+npm ERR! network If you are behind a proxy, please make sure that the
+npm ERR! network 'proxy' config is set properly.  See: 'npm help config'
+{
+  "error": {
+    "code": "ENOTFOUND",
+    "summary": "request to https://registry.npmjs.org/pyright failed, reason: getaddrinfo ENOTFOUND registry.npmjs.org",
+    "detail": "This is a problem related to network connectivity.\nIn most cases you are behind a proxy or have bad network settings.\n\nIf you are behind a proxy, please make sure that the\n'proxy' config is set properly.  See: 'npm help config'"
+  }
+}
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     C:\Users\Administrator\AppData\Local\npm-cache\_logs\2023-04-28T14_25_09_237Z-debug-0.log
+
+[ERROR 2023/4/28 22:26:19] ...m-data/lazy/mason.nvim/lua/mason-core/providers/init.lua:86: No provider implementation succeeded for npm.get_latest_version
+[ERROR 2023/4/28 22:39:41] ...m-data/lazy/mason.nvim/lua/mason-core/providers/init.lua:75: Provider "github" "get_latest_release" failed: spawn: powershell failed with exit code 1 and signal 0. iwr : The remote name could not be resolved: 'api.mason-registry.dev'
+At line:1 char:174
++ ... ite-Output (iwr -Headers @{"User-Agent"="mason.nvim (+https://github. ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (System.Net.HttpWebRequest:HttpWebRequest) [Invoke-WebRequest], WebExc 
+   eption
+    + FullyQualifiedErrorId : WebCmdletWebResponseException,Microsoft.PowerShell.Commands.InvokeWebRequestCommand
+ 
+
+[ERROR 2023/4/28 22:39:42] ...m-data/lazy/mason.nvim/lua/mason-core/providers/init.lua:75: Provider "github" "get_latest_release" failed: spawn: powershell failed with exit code 1 and signal 0. iwr : The remote name could not be resolved: 'api.github.com'
+At line:1 char:174
++ ... ite-Output (iwr -Headers @{"User-Agent"="mason.nvim (+https://github. ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (System.Net.HttpWebRequest:HttpWebRequest) [Invoke-WebRequest], WebExc 
+   eption
+    + FullyQualifiedErrorId : WebCmdletWebResponseException,Microsoft.PowerShell.Commands.InvokeWebRequestCommand
+ 
+
+[ERROR 2023/4/28 22:39:42] ...m-data/lazy/mason.nvim/lua/mason-core/providers/init.lua:86: No provider implementation succeeded for github.get_latest_release
+[ERROR 2023/4/28 22:39:42] ...ta/lazy/mason.nvim/lua/mason-registry/sources/github.lua:170: Failed to install registry GitHubRegistrySource(repo=mason-org/mason-registry). "Failed to fetch latest registry version from GitHub API."
+[ERROR 2023/4/28 22:39:44] ...m-data/lazy/mason.nvim/lua/mason-core/providers/init.lua:75: Provider "npm" "get_latest_version" failed: spawn: powershell failed with exit code 1 and signal 0. iwr : The remote name could not be resolved: 'api.mason-registry.dev'
+At line:1 char:174
++ ... ite-Output (iwr -Headers @{"User-Agent"="mason.nvim (+https://github. ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (System.Net.HttpWebRequest:HttpWebRequest) [Invoke-WebRequest], WebExc 
+   eption
+    + FullyQualifiedErrorId : WebCmdletWebResponseException,Microsoft.PowerShell.Commands.InvokeWebRequestCommand
+ 
+
+[ERROR 2023/4/28 22:40:55] ...m-data/lazy/mason.nvim/lua/mason-core/providers/init.lua:75: Provider "npm" "get_latest_version" failed: spawn: npm.cmd failed with exit code 1 and signal 0. npm ERR! code ENOTFOUND
+npm ERR! syscall getaddrinfo
+npm ERR! errno ENOTFOUND
+npm ERR! network request to https://registry.npmjs.org/pyright failed, reason: getaddrinfo ENOTFOUND registry.npmjs.org
+npm ERR! network This is a problem related to network connectivity.
+npm ERR! network In most cases you are behind a proxy or have bad network settings.
+npm ERR! network 
+npm ERR! network If you are behind a proxy, please make sure that the
+npm ERR! network 'proxy' config is set properly.  See: 'npm help config'
+{
+  "error": {
+    "code": "ENOTFOUND",
+    "summary": "request to https://registry.npmjs.org/pyright failed, reason: getaddrinfo ENOTFOUND registry.npmjs.org",
+    "detail": "This is a problem related to network connectivity.\nIn most cases you are behind a proxy or have bad network settings.\n\nIf you are behind a proxy, please make sure that the\n'proxy' config is set properly.  See: 'npm help config'"
+  }
+}
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     C:\Users\Administrator\AppData\Local\npm-cache\_logs\2023-04-28T14_39_45_706Z-debug-0.log
+
+[ERROR 2023/4/28 22:40:55] ...m-data/lazy/mason.nvim/lua/mason-core/providers/init.lua:86: No provider implementation succeeded for npm.get_latest_version
+[ERROR 2023/5/2 20:04:44] ...ta/lazy/mason.nvim/lua/mason-registry/sources/github.lua:170: Failed to install registry GitHubRegistrySource(repo=mason-org/mason-registry). "Failed to download checksums.txt."
+[INFO  2023/5/2 20:25:03] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:166: Executing installer for Package(name=typescript-language-server) {}
+[INFO  2023/5/2 20:25:19] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:193: Installation succeeded for Package(name=typescript-language-server)
+[ERROR 2023/5/2 20:31:51] ...ta/lazy/mason.nvim/lua/mason-registry/sources/github.lua:170: Failed to install registry GitHubRegistrySource(repo=mason-org/mason-registry). "Failed to download registry archive."
+[INFO  2023/6/9 17:12:01] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:166: Executing installer for Package(name=html-lsp) {}
+[INFO  2023/6/9 17:12:22] ...m-data/lazy/mason.nvim/lua/mason-core/installer/init.lua:193: Installation succeeded for Package(name=html-lsp)

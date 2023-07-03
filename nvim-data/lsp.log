@@ -1,0 +1,485 @@
+[START][2023-04-09 21:36:35] LSP logging initiated
+[ERROR][2023-04-09 21:36:35] .../vim/lsp/rpc.lua:734	"rpc"	"cmd.exe"	"stderr"	"'lua-language-server' is not recognized as an internal or external command,\r\noperable program or batch file.\r\n"
+[START][2023-04-09 21:43:01] LSP logging initiated
+[ERROR][2023-04-09 21:43:01] .../vim/lsp/rpc.lua:734	"rpc"	"cmd.exe"	"stderr"	"'lua-language-server' is not recognized as an internal or external command,\r\noperable program or batch file.\r\n"
+[START][2023-04-09 21:43:16] LSP logging initiated
+[ERROR][2023-04-09 21:43:16] .../vim/lsp/rpc.lua:734	"rpc"	"cmd.exe"	"stderr"	"'lua-language-server' is not recognized as an internal or external command,\r\noperable program or batch file.\r\n"
+[START][2023-04-09 21:45:52] LSP logging initiated
+[ERROR][2023-04-09 21:45:52] .../vim/lsp/rpc.lua:734	"rpc"	"cmd.exe"	"stderr"	"'lua-language-server' is not recognized as an internal or external command,\r\noperable program or batch file.\r\n"
+[START][2023-04-09 21:46:11] LSP logging initiated
+[ERROR][2023-04-09 21:46:11] .../vim/lsp/rpc.lua:734	"rpc"	"cmd.exe"	"stderr"	"'lua-language-server' is not recognized as an internal or external command,\r\noperable program or batch file.\r\n"
+[START][2023-04-09 21:46:21] LSP logging initiated
+[ERROR][2023-04-09 21:46:21] .../vim/lsp/rpc.lua:734	"rpc"	"cmd.exe"	"stderr"	"'lua-language-server' is not recognized as an internal or external command,\r\noperable program or batch file.\r\n"
+[START][2023-04-09 22:22:10] LSP logging initiated
+[ERROR][2023-04-09 22:22:10] .../vim/lsp/rpc.lua:734	"rpc"	"cmd.exe"	"stderr"	"'lua-language-server' is not recognized as an internal or external command,\r\noperable program or batch file.\r\n"
+[START][2023-04-09 22:23:09] LSP logging initiated
+[ERROR][2023-04-09 22:23:09] .../vim/lsp/rpc.lua:734	"rpc"	"cmd.exe"	"stderr"	"'lua-language-server' is not recognized as an internal or external command,\r\noperable program or batch file.\r\n"
+[START][2023-04-09 22:43:58] LSP logging initiated
+[ERROR][2023-04-09 22:43:58] .../vim/lsp/rpc.lua:734	"rpc"	"cmd.exe"	"stderr"	"'lua-language-server' is not recognized as an internal or external command,\r\noperable program or batch file.\r\n"
+[START][2023-04-09 23:10:56] LSP logging initiated
+[ERROR][2023-04-09 23:10:56] .../vim/lsp/rpc.lua:734	"rpc"	"cmd.exe"	"stderr"	"'lua-language-server' is not recognized as an internal or external command,\r\noperable program or batch file.\r\n"
+[START][2023-04-09 23:16:04] LSP logging initiated
+[ERROR][2023-04-09 23:16:04] .../vim/lsp/rpc.lua:734	"rpc"	"cmd.exe"	"stderr"	"'lua-language-server' is not recognized as an internal or external command,\r\noperable program or batch file.\r\n"
+[START][2023-04-09 23:46:17] LSP logging initiated
+[ERROR][2023-04-09 23:46:17] .../vim/lsp/rpc.lua:734	"rpc"	"cmd.exe"	"stderr"	"'lua-language-server' is not recognized as an internal or external command,\r\noperable program or batch file.\r\n"
+[START][2023-04-09 23:47:12] LSP logging initiated
+[ERROR][2023-04-09 23:47:12] .../vim/lsp/rpc.lua:734	"rpc"	"cmd.exe"	"stderr"	"'lua-language-server' is not recognized as an internal or external command,\r\noperable program or batch file.\r\n"
+[START][2023-04-10 00:00:36] LSP logging initiated
+[ERROR][2023-04-10 00:00:36] .../vim/lsp/rpc.lua:734	"rpc"	"cmd.exe"	"stderr"	"'lua-language-server' is not recognized as an internal or external command,\r\noperable program or batch file.\r\n"
+[START][2023-04-10 00:00:49] LSP logging initiated
+[ERROR][2023-04-10 00:00:49] .../vim/lsp/rpc.lua:734	"rpc"	"cmd.exe"	"stderr"	"'lua-language-server' is not recognized as an internal or external command,\r\noperable program or batch file.\r\n"
+[START][2023-04-10 00:01:03] LSP logging initiated
+[ERROR][2023-04-10 00:01:03] .../vim/lsp/rpc.lua:734	"rpc"	"cmd.exe"	"stderr"	"'lua-language-server' is not recognized as an internal or external command,\r\noperable program or batch file.\r\n"
+[START][2023-04-10 18:48:59] LSP logging initiated
+[ERROR][2023-04-10 18:48:59] .../vim/lsp/rpc.lua:734	"rpc"	"cmd.exe"	"stderr"	"'lua-language-server' is not recognized as an internal or external command,\r\noperable program or batch file.\r\n"
+[START][2023-04-10 18:57:01] LSP logging initiated
+[ERROR][2023-04-10 18:57:01] .../vim/lsp/rpc.lua:734	"rpc"	"cmd.exe"	"stderr"	"'lua-language-server' is not recognized as an internal or external command,\r\noperable program or batch file.\r\n"
+[START][2023-04-10 18:58:05] LSP logging initiated
+[ERROR][2023-04-10 18:58:05] .../vim/lsp/rpc.lua:734	"rpc"	"cmd.exe"	"stderr"	"'lua-language-server' is not recognized as an internal or external command,\r\noperable program or batch file.\r\n"
+[START][2023-04-10 18:58:45] LSP logging initiated
+[ERROR][2023-04-10 18:58:45] .../vim/lsp/rpc.lua:734	"rpc"	"cmd.exe"	"stderr"	"'lua-language-server' is not recognized as an internal or external command,\r\noperable program or batch file.\r\n"
+[START][2023-04-10 18:59:10] LSP logging initiated
+[ERROR][2023-04-10 18:59:10] .../vim/lsp/rpc.lua:734	"rpc"	"cmd.exe"	"stderr"	"'lua-language-server' is not recognized as an internal or external command,\r\noperable program or batch file.\r\n"
+[START][2023-04-10 19:12:41] LSP logging initiated
+[ERROR][2023-04-10 19:12:41] .../vim/lsp/rpc.lua:734	"rpc"	"cmd.exe"	"stderr"	"'lua-language-server' is not recognized as an internal or external command,\r\noperable program or batch file.\r\n"
+[START][2023-04-10 19:12:43] LSP logging initiated
+[ERROR][2023-04-10 19:12:43] .../vim/lsp/rpc.lua:734	"rpc"	"cmd.exe"	"stderr"	"'lua-language-server' is not recognized as an internal or external command,\r\noperable program or batch file.\r\n"
+[START][2023-04-10 19:19:06] LSP logging initiated
+[ERROR][2023-04-10 19:19:06] .../vim/lsp/rpc.lua:734	"rpc"	"cmd.exe"	"stderr"	"'lua-language-server' is not recognized as an internal or external command,\r\noperable program or batch file.\r\n"
+[START][2023-04-10 19:19:33] LSP logging initiated
+[ERROR][2023-04-10 19:19:33] .../vim/lsp/rpc.lua:734	"rpc"	"cmd.exe"	"stderr"	"'lua-language-server' is not recognized as an internal or external command,\r\noperable program or batch file.\r\n"
+[START][2023-04-10 20:36:49] LSP logging initiated
+[ERROR][2023-04-10 20:36:49] ...lsp/handlers.lua:535	"Unable to read the settings file: C:\\Users\\Administrator\\AppData\\Local\\nvim\\lua\\lua\\.luarc.json"
+[WARN][2023-04-10 20:36:51] ...lsp/handlers.lua:537	'Failed to modify settings\n\nPlease modify following settings manually:\n* `Lua.workspace.library`: add element `"${3rd}/luassert/library"` ;\n'
+[START][2023-04-10 20:46:57] LSP logging initiated
+[ERROR][2023-04-10 20:46:57] .../lua/vim/lsp.lua:1086	"LSP[lua_ls]"	"on_error"	{  code = "SERVER_REQUEST_HANDLER_ERROR",  err = "Keyboard interrupt"}
+[START][2023-04-10 20:56:39] LSP logging initiated
+[ERROR][2023-04-10 20:56:39] .../lua/vim/lsp.lua:1086	"LSP[lua_ls]"	"on_error"	{  code = "SERVER_REQUEST_HANDLER_ERROR",  err = "Keyboard interrupt"}
+[START][2023-04-10 20:59:35] LSP logging initiated
+[ERROR][2023-04-10 20:59:35] .../lua/vim/lsp.lua:1086	"LSP[lua_ls]"	"on_error"	{  code = "SERVER_REQUEST_HANDLER_ERROR",  err = "Keyboard interrupt"}
+[START][2023-04-10 21:40:21] LSP logging initiated
+[ERROR][2023-04-10 21:40:21] ...lsp/handlers.lua:535	"Unable to read the settings file: C:\\Users\\Administrator\\Desktop\\nvim\\lua\\lua\\.luarc.json"
+[WARN][2023-04-10 21:40:21] ...lsp/handlers.lua:537	"Failed to modify settings\n\nPlease modify following settings manually:\n* `Lua.workspace.checkThirdParty`: set to `false` ;\n"
+[START][2023-04-10 21:40:47] LSP logging initiated
+[ERROR][2023-04-10 21:40:47] ...lsp/handlers.lua:535	"Unable to read the settings file: C:\\Users\\Administrator\\AppData\\Local\\nvim\\lua\\lua\\.luarc.json"
+[WARN][2023-04-10 21:40:53] ...lsp/handlers.lua:537	"Failed to modify settings\n\nPlease modify following settings manually:\n* `Lua.workspace.checkThirdParty`: set to `false` ;\n"
+[START][2023-04-10 21:53:11] LSP logging initiated
+[ERROR][2023-04-10 21:53:11] ...lsp/handlers.lua:535	"Unable to read the settings file: C:\\Users\\Administrator\\AppData\\Local\\nvim\\lua\\lua\\.luarc.json"
+[WARN][2023-04-10 21:53:11] ...lsp/handlers.lua:537	"Failed to modify settings\n\nPlease modify following settings manually:\n* `Lua.workspace.checkThirdParty`: set to `false` ;\n"
+[START][2023-04-10 22:00:52] LSP logging initiated
+[ERROR][2023-04-10 22:00:52] .../lua/vim/lsp.lua:1086	"LSP[lua_ls]"	"on_error"	{  code = "SERVER_REQUEST_HANDLER_ERROR",  err = "Keyboard interrupt"}
+[START][2023-04-10 22:16:29] LSP logging initiated
+[ERROR][2023-04-10 22:16:29] ...lsp/handlers.lua:535	"Unable to read the settings file: C:\\Users\\Administrator\\AppData\\Local\\nvim\\lua\\lua\\.luarc.json"
+[WARN][2023-04-10 22:16:36] ...lsp/handlers.lua:537	"Failed to modify settings\n\nPlease modify following settings manually:\n* `Lua.workspace.checkThirdParty`: set to `false` ;\n"
+[START][2023-04-10 22:18:33] LSP logging initiated
+[ERROR][2023-04-10 22:18:33] ...lsp/handlers.lua:535	"Unable to read the settings file: C:\\Users\\Administrator\\AppData\\Local\\nvim\\lua\\lua\\.luarc.json"
+[WARN][2023-04-10 22:18:34] ...lsp/handlers.lua:537	"Failed to modify settings\n\nPlease modify following settings manually:\n* `Lua.workspace.checkThirdParty`: set to `false` ;\n"
+[START][2023-04-10 22:19:09] LSP logging initiated
+[ERROR][2023-04-10 22:19:09] ...lsp/handlers.lua:535	"Unable to read the settings file: C:\\Users\\Administrator\\AppData\\Local\\nvim\\lua\\lua\\.luarc.json"
+[WARN][2023-04-10 22:19:09] ...lsp/handlers.lua:537	"Failed to modify settings\n\nPlease modify following settings manually:\n* `Lua.workspace.checkThirdParty`: set to `false` ;\n"
+[START][2023-04-11 21:26:57] LSP logging initiated
+[ERROR][2023-04-11 21:26:57] ...lsp/handlers.lua:535	"Unable to read the settings file: C:\\Users\\Administrator\\AppData\\Local\\nvim\\lua\\lua\\.luarc.json"
+[WARN][2023-04-11 21:26:57] ...lsp/handlers.lua:537	"Failed to modify settings\n\nPlease modify following settings manually:\n* `Lua.workspace.checkThirdParty`: set to `false` ;\n"
+[START][2023-04-12 00:43:34] LSP logging initiated
+[ERROR][2023-04-12 00:43:34] ...lsp/handlers.lua:535	"Unable to read the settings file: C:\\Users\\Administrator\\AppData\\Local\\nvim\\lua\\lua\\.luarc.json"
+[WARN][2023-04-12 00:43:34] ...lsp/handlers.lua:537	"Failed to modify settings\n\nPlease modify following settings manually:\n* `Lua.workspace.checkThirdParty`: set to `false` ;\n"
+[START][2023-04-12 00:46:10] LSP logging initiated
+[ERROR][2023-04-12 00:46:10] ...lsp/handlers.lua:535	"Unable to read the settings file: C:\\Users\\Administrator\\AppData\\Local\\nvim\\lua\\lua\\.luarc.json"
+[WARN][2023-04-12 00:46:10] ...lsp/handlers.lua:537	"Failed to modify settings\n\nPlease modify following settings manually:\n* `Lua.workspace.checkThirdParty`: set to `false` ;\n"
+[START][2023-04-12 18:28:43] LSP logging initiated
+[ERROR][2023-04-12 18:28:43] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[18:28:43.340] Failed to decode textDocument/didOpen request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-04-12 18:28:43] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[18:28:43.341] Failed to decode textDocument/semanticTokens/full request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-04-12 18:28:44] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[18:28:44.310] Failed to decode textDocument/didChange request: unresolvable URI at (root).textDocument.uri\r\nE[18:28:44.310] Failed to decode textDocument/completion request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-04-12 18:28:44] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[18:28:44.521] Failed to decode textDocument/semanticTokens/full request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-04-12 18:28:44] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[18:28:44.572] Failed to decode textDocument/didChange request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-04-12 18:28:44] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[18:28:44.729] Failed to decode textDocument/didChange request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-04-12 18:28:44] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[18:28:44.888] Failed to decode textDocument/didChange request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-04-12 18:28:44] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[18:28:44.952] Failed to decode textDocument/semanticTokens/full request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-04-12 18:28:45] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[18:28:45.021] Failed to decode textDocument/didChange request: unresolvable URI at (root).textDocument.uri\r\nE[18:28:45.021] Failed to decode textDocument/completion request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-04-12 18:28:45] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[18:28:45.212] Failed to decode textDocument/didChange request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-04-12 18:28:45] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[18:28:45.377] Failed to decode textDocument/didChange request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-04-12 18:28:45] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[18:28:45.537] Failed to decode textDocument/didChange request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-04-12 18:28:45] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[18:28:45.600] Failed to decode textDocument/semanticTokens/full request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-04-12 18:28:45] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[18:28:45.821] Failed to decode textDocument/didChange request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-04-12 18:28:46] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[18:28:46.027] Failed to decode textDocument/semanticTokens/full request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-04-12 18:28:46] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[18:28:46.329] Failed to decode textDocument/didChange request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-04-12 18:28:46] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[18:28:46.426] Failed to decode textDocument/didChange request: unresolvable URI at (root).textDocument.uri\r\nE[18:28:46.426] Failed to decode textDocument/completion request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-04-12 18:28:46] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[18:28:46.584] Failed to decode textDocument/didChange request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-04-12 18:28:46] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[18:28:46.726] Failed to decode textDocument/semanticTokens/full request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-04-12 18:28:47] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[18:28:47.332] Failed to decode textDocument/didChange request: unresolvable URI at (root).textDocument.uri\r\nE[18:28:47.333] Failed to decode textDocument/completion request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-04-12 18:28:47] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[18:28:47.487] Failed to decode textDocument/didChange request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-04-12 18:28:47] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[18:28:47.597] Failed to decode textDocument/semanticTokens/full request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-04-12 18:28:48] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[18:28:48.749] Failed to decode textDocument/didChange request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-04-12 18:28:48] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[18:28:48.750] Failed to decode textDocument/didChange request: unresolvable URI at (root).textDocument.uri\r\nE[18:28:48.750] Failed to decode textDocument/signatureHelp request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-04-12 18:28:48] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[18:28:48.963] Failed to decode textDocument/semanticTokens/full request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-04-12 18:28:49] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[18:28:49.004] Failed to decode textDocument/didChange request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-04-12 18:28:49] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[18:28:49.005] Failed to decode textDocument/completion request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-04-12 18:28:49] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[18:28:49.219] Failed to decode textDocument/semanticTokens/full request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-04-12 18:28:49] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[18:28:49.621] Failed to decode textDocument/didChange request: unresolvable URI at (root).textDocument.uri\r\nE[18:28:49.622] Failed to decode textDocument/signatureHelp request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-04-12 18:28:49] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[18:28:49.741] Failed to decode textDocument/didChange request: unresolvable URI at (root).textDocument.uri\r\nE[18:28:49.741] Failed to decode textDocument/completion request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-04-12 18:28:49] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[18:28:49.948] Failed to decode textDocument/semanticTokens/full request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-04-12 18:28:49] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[18:28:49.956] Failed to decode textDocument/didChange request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-04-12 18:28:50] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[18:28:50.106] Failed to decode textDocument/didChange request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-04-12 18:28:50] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[18:28:50.312] Failed to decode textDocument/semanticTokens/full request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-04-12 18:28:51] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[18:28:51.132] Failed to decode textDocument/didChange request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-04-12 18:28:51] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[18:28:51.332] Failed to decode textDocument/semanticTokens/full request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-04-12 18:28:51] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[18:28:51.332] Failed to decode textDocument/didChange request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-04-12 18:28:51] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[18:28:51.333] Failed to decode textDocument/completion request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-04-12 18:28:51] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[18:28:51.483] Failed to decode textDocument/didChange request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-04-12 18:28:51] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[18:28:51.642] Failed to decode textDocument/didChange request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-04-12 18:28:51] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[18:28:51.817] Failed to decode textDocument/semanticTokens/full request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-04-12 18:28:51] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[18:28:51.852] Failed to decode textDocument/didChange request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-04-12 18:28:52] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[18:28:52.008] Failed to decode textDocument/didChange request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-04-12 18:28:52] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[18:28:52.168] Failed to decode textDocument/didChange request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-04-12 18:28:52] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[18:28:52.295] Failed to decode textDocument/semanticTokens/full request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-04-12 18:28:52] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[18:28:52.405] Failed to decode textDocument/didChange request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-04-12 18:28:52] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[18:28:52.406] Failed to decode textDocument/completion request: unresolvable URI at (root).textDocument.uri\r\nE[18:28:52.406] Failed to decode textDocument/signatureHelp request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-04-12 18:28:52] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[18:28:52.612] Failed to decode textDocument/semanticTokens/full request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-04-12 18:28:53] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[18:28:53.140] Failed to decode textDocument/didChange request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-04-12 18:28:53] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[18:28:53.141] Failed to decode textDocument/completion request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-04-12 18:28:53] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[18:28:53.292] Failed to decode textDocument/didChange request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-04-12 18:28:53] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[18:28:53.455] Failed to decode textDocument/didChange request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-04-12 18:28:53] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[18:28:53.503] Failed to decode textDocument/semanticTokens/full request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-04-12 18:28:53] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[18:28:53.724] Failed to decode textDocument/didChange request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-04-12 18:28:53] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[18:28:53.882] Failed to decode textDocument/didChange request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-04-12 18:28:53] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[18:28:53.994] Failed to decode textDocument/semanticTokens/full request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-04-12 18:28:54] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[18:28:54.101] Failed to decode textDocument/didChange request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-04-12 18:28:54] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[18:28:54.311] Failed to decode textDocument/semanticTokens/full request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-04-12 18:28:54] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[18:28:54.484] Failed to decode textDocument/didChange request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-04-12 18:28:54] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[18:28:54.644] Failed to decode textDocument/didChange request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-04-12 18:28:54] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[18:28:54.788] Failed to decode textDocument/semanticTokens/full request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-04-12 18:28:54] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[18:28:54.876] Failed to decode textDocument/didChange request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-04-12 18:28:54] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[18:28:54.877] Failed to decode textDocument/completion request: unresolvable URI at (root).textDocument.uri\r\nE[18:28:54.877] Failed to decode textDocument/signatureHelp request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-04-12 18:28:55] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[18:28:55.089] Failed to decode textDocument/semanticTokens/full request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-04-12 18:28:55] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[18:28:55.300] Failed to decode textDocument/didChange request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-04-12 18:28:55] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[18:28:55.301] Failed to decode textDocument/completion request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-04-12 18:28:55] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[18:28:55.460] Failed to decode textDocument/didChange request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-04-12 18:28:55] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[18:28:55.676] Failed to decode textDocument/semanticTokens/full request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-04-12 18:28:56] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[18:28:56.052] Failed to decode textDocument/didChange request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-04-12 18:28:56] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[18:28:56.244] Failed to decode textDocument/didChange request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-04-12 18:28:56] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[18:28:56.245] Failed to decode textDocument/completion request: unresolvable URI at (root).textDocument.uri\r\nE[18:28:56.245] Failed to decode textDocument/signatureHelp request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-04-12 18:28:56] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[18:28:56.452] Failed to decode textDocument/semanticTokens/full request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-04-12 18:28:56] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[18:28:56.477] Failed to decode textDocument/didChange request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-04-12 18:28:56] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[18:28:56.691] Failed to decode textDocument/semanticTokens/full request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-04-12 18:28:57] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[18:28:57.213] Failed to decode textDocument/didChange request: unresolvable URI at (root).textDocument.uri\r\nE[18:28:57.213] Failed to decode textDocument/completion request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-04-12 18:28:57] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[18:28:57.371] Failed to decode textDocument/didChange request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-04-12 18:28:57] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[18:28:57.530] Failed to decode textDocument/didChange request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-04-12 18:28:57] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[18:28:57.589] Failed to decode textDocument/didChange request: unresolvable URI at (root).textDocument.uri\r\nE[18:28:57.589] Failed to decode textDocument/completion request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-04-12 18:28:57] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[18:28:57.797] Failed to decode textDocument/semanticTokens/full request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-04-12 18:28:57] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[18:28:57.797] Failed to decode textDocument/didChange request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-04-12 18:28:57] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[18:28:57.957] Failed to decode textDocument/didChange request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-04-12 18:28:58] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[18:28:58.117] Failed to decode textDocument/didChange request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-04-12 18:28:58] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[18:28:58.165] Failed to decode textDocument/semanticTokens/full request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-04-12 18:28:58] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[18:28:58.516] Failed to decode textDocument/didChange request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-04-12 18:28:58] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[18:28:58.517] Failed to decode textDocument/didChange request: unresolvable URI at (root).textDocument.uri\r\nE[18:28:58.518] Failed to decode textDocument/signatureHelp request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-04-12 18:28:58] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[18:28:58.722] Failed to decode textDocument/semanticTokens/full request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-04-12 18:28:58] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[18:28:58.836] Failed to decode textDocument/didChange request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-04-12 18:28:58] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[18:28:58.837] Failed to decode textDocument/didChange request: unresolvable URI at (root).textDocument.uri\r\nE[18:28:58.838] Failed to decode textDocument/signatureHelp request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-04-12 18:28:59] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[18:28:59.040] Failed to decode textDocument/semanticTokens/full request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-04-12 18:29:00] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[18:29:00.005] Failed to decode textDocument/didChange request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-04-12 18:29:00] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[18:29:00.164] Failed to decode textDocument/didChange request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-04-12 18:29:00] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[18:29:00.211] Failed to decode textDocument/semanticTokens/full request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-04-12 18:29:00] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[18:29:00.940] Failed to decode textDocument/didChange request: unresolvable URI at (root).textDocument.uri\r\nE[18:29:00.941] Failed to decode textDocument/completion request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-04-12 18:29:01] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[18:29:01.147] Failed to decode textDocument/semanticTokens/full request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-04-12 18:29:01] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[18:29:01.332] Failed to decode textDocument/didChange request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-04-12 18:29:01] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[18:29:01.496] Failed to decode textDocument/didChange request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-04-12 18:29:01] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[18:29:01.623] Failed to decode textDocument/semanticTokens/full request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-04-12 18:29:01] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[18:29:01.684] Failed to decode textDocument/didChange request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-04-12 18:29:01] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[18:29:01.892] Failed to decode textDocument/semanticTokens/full request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-04-12 18:29:01] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[18:29:01.988] Failed to decode textDocument/didChange request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-04-12 18:29:02] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[18:29:02.148] Failed to decode textDocument/didChange request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-04-12 18:29:02] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[18:29:02.260] Failed to decode textDocument/semanticTokens/full request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-04-12 18:29:02] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[18:29:02.669] Failed to decode textDocument/didChange request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-04-12 18:29:02] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[18:29:02.670] Failed to decode textDocument/didChange request: unresolvable URI at (root).textDocument.uri\r\nE[18:29:02.670] Failed to decode textDocument/signatureHelp request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-04-12 18:29:02] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[18:29:02.876] Failed to decode textDocument/semanticTokens/full request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-04-12 18:29:03] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[18:29:03.868] Failed to decode textDocument/didChange request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-04-12 18:29:04] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[18:29:04.084] Failed to decode textDocument/semanticTokens/full request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-04-12 18:29:04] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[18:29:04.716] Failed to decode textDocument/didChange request: unresolvable URI at (root).textDocument.uri\r\nE[18:29:04.717] Failed to decode textDocument/completion request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-04-12 18:29:04] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[18:29:04.922] Failed to decode textDocument/semanticTokens/full request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-04-12 18:29:06] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[18:29:06.405] Failed to decode textDocument/didChange request: unresolvable URI at (root).textDocument.uri\r\nE[18:29:06.406] Failed to decode textDocument/signatureHelp request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-04-12 18:29:06] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[18:29:06.619] Failed to decode textDocument/semanticTokens/full request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-04-12 18:29:07] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[18:29:07.884] Failed to decode textDocument/didChange request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-04-12 18:29:07] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[18:29:07.885] Failed to decode textDocument/completion request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-04-12 18:29:08] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[18:29:08.087] Failed to decode textDocument/semanticTokens/full request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-04-12 18:29:09] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[18:29:09.124] Failed to decode textDocument/didChange request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-04-12 18:29:09] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[18:29:09.325] Failed to decode textDocument/semanticTokens/full request: unresolvable URI at (root).textDocument.uri\r\n"
+[START][2023-04-12 18:33:59] LSP logging initiated
+[ERROR][2023-04-12 18:33:59] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[18:33:59.954] Failed to decode textDocument/didOpen request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-04-12 18:33:59] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[18:33:59.955] Failed to decode textDocument/semanticTokens/full request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-04-12 18:34:01] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[18:34:01.850] Failed to decode textDocument/didChange request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-04-12 18:34:01] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[18:34:01.913] Failed to decode textDocument/semanticTokens/full request: unresolvable URI at (root).textDocument.uri\r\n"
+[START][2023-04-12 18:40:41] LSP logging initiated
+[ERROR][2023-04-12 18:40:41] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[18:40:41.890] Failed to decode textDocument/didOpen request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-04-12 18:40:41] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[18:40:41.891] Failed to decode textDocument/semanticTokens/full request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-04-12 18:40:47] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[18:40:47.509] Failed to decode textDocument/didChange request: unresolvable URI at (root).textDocument.uri\r\nE[18:40:47.509] Failed to decode textDocument/completion request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-04-12 18:40:47] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[18:40:47.723] Failed to decode textDocument/semanticTokens/full request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-04-12 18:40:48] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[18:40:48.148] Failed to decode textDocument/didChange request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-04-12 18:40:48] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[18:40:48.358] Failed to decode textDocument/semanticTokens/full request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-04-12 18:40:49] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[18:40:49.268] Failed to decode textDocument/didChange request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-04-12 18:40:49] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[18:40:49.468] Failed to decode textDocument/semanticTokens/full request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-04-12 18:40:50] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[18:40:50.133] Failed to decode textDocument/didChange request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-04-12 18:40:50] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[18:40:50.342] Failed to decode textDocument/semanticTokens/full request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-04-12 18:40:50] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[18:40:50.405] Failed to decode textDocument/didChange request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-04-12 18:40:50] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[18:40:50.406] Failed to decode textDocument/completion request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-04-12 18:40:50] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[18:40:50.611] Failed to decode textDocument/semanticTokens/full request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-04-12 18:40:50] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[18:40:50.653] Failed to decode textDocument/didChange request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-04-12 18:40:50] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[18:40:50.866] Failed to decode textDocument/semanticTokens/full request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-04-12 18:40:51] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[18:40:51.061] Failed to decode textDocument/didChange request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-04-12 18:40:51] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[18:40:51.216] Failed to decode textDocument/didChange request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-04-12 18:40:51] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[18:40:51.408] Failed to decode textDocument/semanticTokens/full request: unresolvable URI at (root).textDocument.uri\r\n"
+[START][2023-04-12 21:36:35] LSP logging initiated
+[ERROR][2023-04-12 21:36:35] ...lsp/handlers.lua:535	"Unable to read the settings file: C:\\Users\\Administrator\\AppData\\Local\\nvim\\lua\\lua\\.luarc.json"
+[WARN][2023-04-12 21:36:43] ...lsp/handlers.lua:537	'Failed to modify settings\n\nPlease modify following settings manually:\n* `Lua.workspace.library`: add element `"${3rd}/luassert/library"` ;\n'
+[START][2023-04-12 21:39:09] LSP logging initiated
+[ERROR][2023-04-12 21:39:09] ...lsp/handlers.lua:535	"Unable to read the settings file: C:\\Users\\Administrator\\AppData\\Local\\nvim\\lua\\lua\\.luarc.json"
+[WARN][2023-04-12 21:39:14] ...lsp/handlers.lua:537	"Failed to modify settings\n\nPlease modify following settings manually:\n* `Lua.workspace.checkThirdParty`: set to `false` ;\n"
+[START][2023-04-12 21:46:41] LSP logging initiated
+[ERROR][2023-04-12 21:46:41] ...lsp/handlers.lua:535	"Unable to read the settings file: C:\\Users\\Administrator\\AppData\\Local\\nvim\\lua\\lua\\.luarc.json"
+[WARN][2023-04-12 21:48:06] ...lsp/handlers.lua:537	"Failed to modify settings\n\nPlease modify following settings manually:\n* `Lua.workspace.checkThirdParty`: set to `false` ;\n"
+[START][2023-04-13 01:28:35] LSP logging initiated
+[ERROR][2023-04-13 01:28:35] .../vim/lsp/rpc.lua:734	"rpc"	"cmd.exe"	"stderr"	"NMD, WSM `endLine > #rows` ?\r\nstack traceback:\r\n\tscript\\text-merger.lua:72: in upvalue 'mergeRows'\r\n\tscript\\text-merger.lua:106: in function 'text-merger'\r\n\tscript\\provider\\provider.lua:305: in function <script\\provider\\provider.lua:294>\r\n\t[C]: in function 'xpcall'\r\n\tscript\\proto\\proto.lua:191: in function <script\\proto\\proto.lua:166>\r\n"
+[START][2023-04-17 19:26:37] LSP logging initiated
+[ERROR][2023-04-17 19:26:37] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[19:26:37.160] JSON parse error: [1:1976, byte=1976]: Invalid UTF-8 sequence\r\n"
+[ERROR][2023-04-17 19:27:04] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[19:27:04.482] Failed to update E:\\SH_Directory\\MinGW\\Project\\isl\\__isl__.cpp: Change's rangeLength (56) doesn't match the computed range length (17).\r\n"
+[START][2023-04-20 22:12:01] LSP logging initiated
+[ERROR][2023-04-20 22:12:01] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[22:12:01.240] Failed to update E:\\SH_Directory\\MinGW\\Project\\刷题\\洛谷\\P1128\\main.cpp: Line value is out of range (2)\r\n"
+[START][2023-04-28 22:15:38] LSP logging initiated
+[ERROR][2023-04-28 22:15:38] .../vim/lsp/rpc.lua:734	"rpc"	"cmd.exe"	"stderr"	"'lua-language-server' is not recognized as an internal or external command,\r\noperable program or batch file.\r\n"
+[START][2023-04-28 22:16:43] LSP logging initiated
+[ERROR][2023-04-28 22:16:43] .../vim/lsp/rpc.lua:734	"rpc"	"cmd.exe"	"stderr"	"'lua-language-server' is not recognized as an internal or external command,\r\noperable program or batch file.\r\n"
+[START][2023-04-28 22:17:40] LSP logging initiated
+[ERROR][2023-04-28 22:17:40] .../vim/lsp/rpc.lua:734	"rpc"	"cmd.exe"	"stderr"	"'lua-language-server' is not recognized as an internal or external command,\r\noperable program or batch file.\r\n"
+[START][2023-04-28 22:17:45] LSP logging initiated
+[ERROR][2023-04-28 22:17:45] .../vim/lsp/rpc.lua:734	"rpc"	"cmd.exe"	"stderr"	"'lua-language-server' is not recognized as an internal or external command,\r\noperable program or batch file.\r\n"
+[START][2023-04-28 22:18:25] LSP logging initiated
+[ERROR][2023-04-28 22:18:25] .../vim/lsp/rpc.lua:734	"rpc"	"cmd.exe"	"stderr"	"'lua-language-server' is not recognized as an internal or external command,\r\noperable program or batch file.\r\n"
+[START][2023-04-28 22:19:17] LSP logging initiated
+[ERROR][2023-04-28 22:19:17] .../vim/lsp/rpc.lua:734	"rpc"	"cmd.exe"	"stderr"	"'lua-language-server' is not recognized as an internal or external command,\r\noperable program or batch file.\r\n"
+[START][2023-04-28 22:19:35] LSP logging initiated
+[ERROR][2023-04-28 22:19:35] .../vim/lsp/rpc.lua:734	"rpc"	"cmd.exe"	"stderr"	"'lua-language-server' is not recognized as an internal or external command,\r\noperable program or batch file.\r\n"
+[START][2023-04-28 22:20:14] LSP logging initiated
+[ERROR][2023-04-28 22:20:14] .../vim/lsp/rpc.lua:734	"rpc"	"cmd.exe"	"stderr"	"'lua-language-server' is not recognized as an internal or external command,\r\noperable program or batch file.\r\n"
+[START][2023-04-28 22:20:46] LSP logging initiated
+[ERROR][2023-04-28 22:20:46] .../vim/lsp/rpc.lua:734	"rpc"	"cmd.exe"	"stderr"	"'lua-language-server' is not recognized as an internal or external command,\r\noperable program or batch file.\r\n"
+[START][2023-04-28 22:23:08] LSP logging initiated
+[ERROR][2023-04-28 22:23:08] .../vim/lsp/rpc.lua:734	"rpc"	"cmd.exe"	"stderr"	"'lua-language-server' is not recognized as an internal or external command,\r\noperable program or batch file.\r\n"
+[START][2023-04-28 22:23:42] LSP logging initiated
+[ERROR][2023-04-28 22:23:42] .../vim/lsp/rpc.lua:734	"rpc"	"cmd.exe"	"stderr"	"'lua-language-server' is not recognized as an internal or external command,\r\noperable program or batch file.\r\n"
+[START][2023-04-28 22:23:59] LSP logging initiated
+[ERROR][2023-04-28 22:23:59] .../vim/lsp/rpc.lua:734	"rpc"	"cmd.exe"	"stderr"	"'lua-language-server' is not recognized as an internal or external command,\r\noperable program or batch file.\r\n"
+[START][2023-04-28 22:26:42] LSP logging initiated
+[ERROR][2023-04-28 22:26:42] .../vim/lsp/rpc.lua:734	"rpc"	"cmd.exe"	"stderr"	"'lua-language-server' is not recognized as an internal or external command,\r\noperable program or batch file.\r\n"
+[START][2023-04-28 22:26:50] LSP logging initiated
+[ERROR][2023-04-28 22:26:50] .../vim/lsp/rpc.lua:734	"rpc"	"cmd.exe"	"stderr"	"'lua-language-server' is not recognized as an internal or external command,\r\noperable program or batch file.\r\n"
+[START][2023-04-28 22:26:58] LSP logging initiated
+[ERROR][2023-04-28 22:26:58] .../vim/lsp/rpc.lua:734	"rpc"	"cmd.exe"	"stderr"	"'lua-language-server' is not recognized as an internal or external command,\r\noperable program or batch file.\r\n"
+[START][2023-04-28 22:27:20] LSP logging initiated
+[ERROR][2023-04-28 22:27:20] .../vim/lsp/rpc.lua:734	"rpc"	"cmd.exe"	"stderr"	"'lua-language-server' is not recognized as an internal or external command,\r\noperable program or batch file.\r\n"
+[START][2023-04-28 22:27:44] LSP logging initiated
+[ERROR][2023-04-28 22:27:44] .../vim/lsp/rpc.lua:734	"rpc"	"cmd.exe"	"stderr"	"'lua-language-server' is not recognized as an internal or external command,\r\noperable program or batch file.\r\n"
+[START][2023-04-28 22:27:55] LSP logging initiated
+[ERROR][2023-04-28 22:27:55] .../vim/lsp/rpc.lua:734	"rpc"	"cmd.exe"	"stderr"	"'lua-language-server' is not recognized as an internal or external command,\r\noperable program or batch file.\r\n"
+[START][2023-04-28 22:28:06] LSP logging initiated
+[ERROR][2023-04-28 22:28:06] .../vim/lsp/rpc.lua:734	"rpc"	"cmd.exe"	"stderr"	"'lua-language-server' is not recognized as an internal or external command,\r\noperable program or batch file.\r\n"
+[START][2023-04-28 22:29:13] LSP logging initiated
+[ERROR][2023-04-28 22:29:13] .../vim/lsp/rpc.lua:734	"rpc"	"cmd.exe"	"stderr"	"'lua-language-server' is not recognized as an internal or external command,\r\noperable program or batch file.\r\n"
+[START][2023-04-28 22:29:23] LSP logging initiated
+[ERROR][2023-04-28 22:29:23] .../vim/lsp/rpc.lua:734	"rpc"	"cmd.exe"	"stderr"	"'lua-language-server' is not recognized as an internal or external command,\r\noperable program or batch file.\r\n"
+[START][2023-04-28 22:29:40] LSP logging initiated
+[ERROR][2023-04-28 22:29:40] .../vim/lsp/rpc.lua:734	"rpc"	"cmd.exe"	"stderr"	"'lua-language-server' is not recognized as an internal or external command,\r\noperable program or batch file.\r\n"
+[START][2023-04-28 22:31:06] LSP logging initiated
+[ERROR][2023-04-28 22:31:06] .../vim/lsp/rpc.lua:734	"rpc"	"cmd.exe"	"stderr"	"'lua-language-server' is not recognized as an internal or external command,\r\noperable program or batch file.\r\n"
+[START][2023-04-28 22:35:35] LSP logging initiated
+[ERROR][2023-04-28 22:35:35] .../vim/lsp/rpc.lua:734	"rpc"	"cmd.exe"	"stderr"	"'lua-language-server' is not recognized as an internal or external command,\r\noperable program or batch file.\r\n"
+[START][2023-04-28 22:36:17] LSP logging initiated
+[ERROR][2023-04-28 22:36:17] .../vim/lsp/rpc.lua:734	"rpc"	"cmd.exe"	"stderr"	"'lua-language-server' is not recognized as an internal or external command,\r\noperable program or batch file.\r\n"
+[START][2023-04-28 22:37:24] LSP logging initiated
+[ERROR][2023-04-28 22:37:24] .../vim/lsp/rpc.lua:734	"rpc"	"cmd.exe"	"stderr"	"'lua-language-server' is not recognized as an internal or external command,\r\noperable program or batch file.\r\n"
+[START][2023-04-28 22:39:31] LSP logging initiated
+[ERROR][2023-04-28 22:39:31] .../vim/lsp/rpc.lua:734	"rpc"	"cmd.exe"	"stderr"	"'lua-language-server' is not recognized as an internal or external command,\r\noperable program or batch file.\r\n"
+[START][2023-04-28 22:39:50] LSP logging initiated
+[ERROR][2023-04-28 22:39:50] .../vim/lsp/rpc.lua:734	"rpc"	"cmd.exe"	"stderr"	"'lua-language-server' is not recognized as an internal or external command,\r\noperable program or batch file.\r\n"
+[START][2023-04-28 22:40:32] LSP logging initiated
+[ERROR][2023-04-28 22:40:32] .../vim/lsp/rpc.lua:734	"rpc"	"cmd.exe"	"stderr"	"'lua-language-server' is not recognized as an internal or external command,\r\noperable program or batch file.\r\n"
+[START][2023-04-28 22:41:39] LSP logging initiated
+[ERROR][2023-04-28 22:41:39] .../vim/lsp/rpc.lua:734	"rpc"	"cmd.exe"	"stderr"	"'lua-language-server' is not recognized as an internal or external command,\r\noperable program or batch file.\r\n"
+[START][2023-04-28 22:42:02] LSP logging initiated
+[ERROR][2023-04-28 22:42:02] .../vim/lsp/rpc.lua:734	"rpc"	"cmd.exe"	"stderr"	"'lua-language-server' is not recognized as an internal or external command,\r\noperable program or batch file.\r\n"
+[START][2023-04-28 22:42:25] LSP logging initiated
+[ERROR][2023-04-28 22:42:25] .../vim/lsp/rpc.lua:734	"rpc"	"cmd.exe"	"stderr"	"'lua-language-server' is not recognized as an internal or external command,\r\noperable program or batch file.\r\n"
+[START][2023-04-28 22:47:30] LSP logging initiated
+[ERROR][2023-04-28 22:47:30] .../vim/lsp/rpc.lua:734	"rpc"	"cmd.exe"	"stderr"	"'lua-language-server' is not recognized as an internal or external command,\r\noperable program or batch file.\r\n"
+[START][2023-04-28 22:49:30] LSP logging initiated
+[ERROR][2023-04-28 22:49:30] .../vim/lsp/rpc.lua:734	"rpc"	"cmd.exe"	"stderr"	"'lua-language-server' is not recognized as an internal or external command,\r\noperable program or batch file.\r\n"
+[START][2023-04-28 22:49:45] LSP logging initiated
+[ERROR][2023-04-28 22:49:45] .../vim/lsp/rpc.lua:734	"rpc"	"cmd.exe"	"stderr"	"'lua-language-server' is not recognized as an internal or external command,\r\noperable program or batch file.\r\n"
+[START][2023-04-29 12:18:25] LSP logging initiated
+[ERROR][2023-04-29 12:18:25] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[12:18:25.015] Failed to decode textDocument/didOpen request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-04-29 12:18:25] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[12:18:25.063] Failed to decode textDocument/semanticTokens/full request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-04-29 12:18:25] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[12:18:25.768] Failed to decode textDocument/didChange request: unresolvable URI at (root).textDocument.uri\r\nE[12:18:25.768] Failed to decode textDocument/completion request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-04-29 12:18:25] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[12:18:25.943] Failed to decode textDocument/didChange request: unresolvable URI at (root).textDocument.uri\r\nE[12:18:25.945] Failed to decode textDocument/completion request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-04-29 12:18:26] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[12:18:26.106] Failed to decode textDocument/didChange request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-04-29 12:18:26] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[12:18:26.264] Failed to decode textDocument/semanticTokens/full request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-04-29 12:18:26] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[12:18:26.399] Failed to decode textDocument/didChange request: unresolvable URI at (root).textDocument.uri\r\nE[12:18:26.400] Failed to decode textDocument/completion request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-04-29 12:18:26] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[12:18:26.551] Failed to decode textDocument/didChange request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-04-29 12:18:26] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[12:18:26.554] Failed to decode textDocument/completion request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-04-29 12:18:26] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[12:18:26.703] Failed to decode textDocument/didChange request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-04-29 12:18:26] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[12:18:26.871] Failed to decode textDocument/didChange request: unresolvable URI at (root).textDocument.uri\r\nE[12:18:26.873] Failed to decode textDocument/completion request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-04-29 12:18:27] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[12:18:27.082] Failed to decode textDocument/semanticTokens/full request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-04-29 12:18:27] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[12:18:27.207] Failed to decode textDocument/didChange request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-04-29 12:18:27] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[12:18:27.304] Failed to decode textDocument/didChange request: unresolvable URI at (root).textDocument.uri\r\nE[12:18:27.304] Failed to decode textDocument/completion request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-04-29 12:18:27] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[12:18:27.509] Failed to decode textDocument/semanticTokens/full request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-04-29 12:18:27] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[12:18:27.735] Failed to decode textDocument/didChange request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-04-29 12:18:27] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[12:18:27.904] Failed to decode textDocument/didChange request: unresolvable URI at (root).textDocument.uri\r\nE[12:18:27.905] Failed to decode textDocument/completion request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-04-29 12:18:28] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[12:18:28.095] Failed to decode textDocument/didChange request: unresolvable URI at (root).textDocument.uri\r\nE[12:18:28.096] Failed to decode textDocument/completion request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-04-29 12:18:28] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[12:18:28.252] Failed to decode textDocument/didChange request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-04-29 12:18:28] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[12:18:28.362] Failed to decode textDocument/semanticTokens/full request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-04-29 12:18:28] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[12:18:28.431] Failed to decode textDocument/didChange request: unresolvable URI at (root).textDocument.uri\r\nE[12:18:28.432] Failed to decode textDocument/completion request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-04-29 12:18:28] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[12:18:28.607] Failed to decode textDocument/didChange request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-04-29 12:18:28] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[12:18:28.820] Failed to decode textDocument/semanticTokens/full request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-04-29 12:18:29] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[12:18:29.199] Failed to decode textDocument/didChange request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-04-29 12:18:29] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[12:18:29.359] Failed to decode textDocument/didChange request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-04-29 12:18:29] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[12:18:29.528] Failed to decode textDocument/didChange request: unresolvable URI at (root).textDocument.uri\r\nE[12:18:29.529] Failed to decode textDocument/completion request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-04-29 12:18:29] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[12:18:29.731] Failed to decode textDocument/semanticTokens/full request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-04-29 12:18:30] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[12:18:30.463] Failed to decode textDocument/didChange request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-04-29 12:18:30] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[12:18:30.678] Failed to decode textDocument/semanticTokens/full request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-04-29 12:18:31] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[12:18:31.322] Failed to decode textDocument/didChange request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-04-29 12:18:31] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[12:18:31.524] Failed to decode textDocument/semanticTokens/full request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-04-29 12:18:33] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[12:18:33.218] Failed to decode textDocument/didChange request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-04-29 12:18:33] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[12:18:33.420] Failed to decode textDocument/semanticTokens/full request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-04-29 12:18:33] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[12:18:33.936] Failed to decode textDocument/didChange request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-04-29 12:18:34] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[12:18:34.148] Failed to decode textDocument/semanticTokens/full request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-04-29 12:18:34] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[12:18:34.783] Failed to decode textDocument/didChange request: unresolvable URI at (root).textDocument.uri\r\nE[12:18:34.784] Failed to decode textDocument/completion request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-04-29 12:18:34] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[12:18:34.991] Failed to decode textDocument/semanticTokens/full request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-04-29 12:18:35] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[12:18:35.664] Failed to decode textDocument/didChange request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-04-29 12:18:35] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[12:18:35.865] Failed to decode textDocument/semanticTokens/full request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-04-29 12:18:36] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[12:18:36.696] Failed to decode textDocument/didChange request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-04-29 12:18:36] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[12:18:36.698] Failed to decode textDocument/didChange request: unresolvable URI at (root).textDocument.uri\r\nE[12:18:36.698] Failed to decode textDocument/completion request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-04-29 12:18:36] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[12:18:36.911] Failed to decode textDocument/semanticTokens/full request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-04-29 12:18:37] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[12:18:37.543] Failed to decode textDocument/didChange request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-04-29 12:18:37] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[12:18:37.695] Failed to decode textDocument/didChange request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-04-29 12:18:37] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[12:18:37.820] Failed to decode textDocument/semanticTokens/full request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-04-29 12:18:37] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[12:18:37.863] Failed to decode textDocument/didChange request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-04-29 12:18:38] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[12:18:38.027] Failed to decode textDocument/didChange request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-04-29 12:18:38] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[12:18:38.183] Failed to decode textDocument/didChange request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-04-29 12:18:38] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[12:18:38.341] Failed to decode textDocument/didChange request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-04-29 12:18:38] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[12:18:38.467] Failed to decode textDocument/semanticTokens/full request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-04-29 12:18:39] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[12:18:39.031] Failed to decode textDocument/didChange request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-04-29 12:18:39] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[12:18:39.237] Failed to decode textDocument/semanticTokens/full request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-04-29 12:18:39] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[12:18:39.679] Failed to decode textDocument/didChange request: unresolvable URI at (root).textDocument.uri\r\nE[12:18:39.680] Failed to decode textDocument/completion request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-04-29 12:18:39] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[12:18:39.888] Failed to decode textDocument/semanticTokens/full request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-04-29 12:18:45] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[12:18:45.055] Failed to decode textDocument/didChange request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-04-29 12:18:45] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[12:18:45.260] Failed to decode textDocument/semanticTokens/full request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-04-29 12:18:55] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[12:18:55.895] Failed to decode textDocument/didChange request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-04-29 12:18:55] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[12:18:55.897] Failed to decode textDocument/completion request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-04-29 12:18:56] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[12:18:56.098] Failed to decode textDocument/semanticTokens/full request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-04-29 12:18:56] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[12:18:56.375] Failed to decode textDocument/didChange request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-04-29 12:18:56] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[12:18:56.584] Failed to decode textDocument/semanticTokens/full request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-04-29 12:18:56] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[12:18:56.887] Failed to decode textDocument/didChange request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-04-29 12:18:57] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[12:18:57.103] Failed to decode textDocument/semanticTokens/full request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-04-29 12:19:07] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[12:19:07.296] Failed to decode textDocument/didClose request: unresolvable URI at (root).textDocument.uri\r\n"
+[START][2023-04-29 13:23:03] LSP logging initiated
+[ERROR][2023-04-29 13:23:03] .../vim/lsp/rpc.lua:734	"rpc"	"cmd.exe"	"stderr"	"'lua-language-server' is not recognized as an internal or external command,\r\noperable program or batch file.\r\n"
+[START][2023-04-29 13:27:09] LSP logging initiated
+[ERROR][2023-04-29 13:27:09] .../vim/lsp/rpc.lua:734	"rpc"	"cmd.exe"	"stderr"	"'lua-language-server' is not recognized as an internal or external command,\r\noperable program or batch file.\r\n"
+[START][2023-04-29 13:31:38] LSP logging initiated
+[ERROR][2023-04-29 13:31:38] .../vim/lsp/rpc.lua:734	"rpc"	"cmd.exe"	"stderr"	"'lua-language-server' is not recognized as an internal or external command,\r\noperable program or batch file.\r\n"
+[START][2023-04-29 13:33:27] LSP logging initiated
+[ERROR][2023-04-29 13:33:27] .../vim/lsp/rpc.lua:734	"rpc"	"cmd.exe"	"stderr"	"'lua-language-server' is not recognized as an internal or external command,\r\noperable program or batch file.\r\n"
+[START][2023-04-29 13:35:52] LSP logging initiated
+[ERROR][2023-04-29 13:35:52] .../vim/lsp/rpc.lua:734	"rpc"	"cmd.exe"	"stderr"	"'lua-language-server' is not recognized as an internal or external command,\r\noperable program or batch file.\r\n"
+[START][2023-04-29 13:36:32] LSP logging initiated
+[ERROR][2023-04-29 13:36:32] .../vim/lsp/rpc.lua:734	"rpc"	"cmd.exe"	"stderr"	"'lua-language-server' is not recognized as an internal or external command,\r\noperable program or batch file.\r\n"
+[START][2023-04-29 13:37:58] LSP logging initiated
+[ERROR][2023-04-29 13:37:58] .../vim/lsp/rpc.lua:734	"rpc"	"cmd.exe"	"stderr"	"'lua-language-server' is not recognized as an internal or external command,\r\noperable program or batch file.\r\n"
+[START][2023-04-29 13:39:00] LSP logging initiated
+[ERROR][2023-04-29 13:39:00] .../vim/lsp/rpc.lua:734	"rpc"	"cmd.exe"	"stderr"	"'lua-language-server' is not recognized as an internal or external command,\r\noperable program or batch file.\r\n"
+[START][2023-04-29 13:39:33] LSP logging initiated
+[ERROR][2023-04-29 13:39:33] .../vim/lsp/rpc.lua:734	"rpc"	"cmd.exe"	"stderr"	"'lua-language-server' is not recognized as an internal or external command,\r\noperable program or batch file.\r\n"
+[START][2023-04-29 13:41:33] LSP logging initiated
+[ERROR][2023-04-29 13:41:33] .../vim/lsp/rpc.lua:734	"rpc"	"cmd.exe"	"stderr"	"'lua-language-server' is not recognized as an internal or external command,\r\noperable program or batch file.\r\n"
+[START][2023-04-29 13:41:40] LSP logging initiated
+[ERROR][2023-04-29 13:41:40] .../vim/lsp/rpc.lua:734	"rpc"	"cmd.exe"	"stderr"	"'lua-language-server' is not recognized as an internal or external command,\r\noperable program or batch file.\r\n"
+[START][2023-04-29 13:42:24] LSP logging initiated
+[ERROR][2023-04-29 13:42:24] .../vim/lsp/rpc.lua:734	"rpc"	"cmd.exe"	"stderr"	"'lua-language-server' is not recognized as an internal or external command,\r\noperable program or batch file.\r\n"
+[START][2023-05-15 19:36:03] LSP logging initiated
+[ERROR][2023-05-15 19:36:03] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"Signalled during AST worker action: Build AST\r\n  Filename: E:\\SH_Directory\\MinGW\\Project\\packages\\pkadd\\isl\\string.hpp\r\n  Directory: E:\\SH_Directory\r\n  Command Line: E:\\SH_Directory\\LLVM\\bin\\clang-tool -std=c++2a --target=x86_64-pc-windows-gnu -xc++ -static -Wimplicit-function-declaration -driver-mode=g++ -I ./ -isystem E:/SH_Directory/MinGW/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++ -L E:/SH_Directory/ffmpeg/lib -isystem E:/SH_Directory/ffmpeg/include -resource-dir=E:\\SH_Directory\\LLVM\\lib\\clang\\15.0.6 -- E:\\SH_Directory\\MinGW\\Project\\packages\\pkadd\\isl\\string.hpp\r\n  Version: 145\r\n"
+[ERROR][2023-05-15 19:36:03] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"Exception Code: 0xC0000005\r\n #0 0x00007ff7a9495353 (E:\\SH_Directory\\LLVM\\bin\\clangd.exe+0xff5353)\r\n #1 0x00007ff7a8d1965c (E:\\SH_Directory\\LLVM\\bin\\clangd.exe+0x87965c)\r\n #2 0x00007ff7a9f32e8a (E:\\SH_Directory\\LLVM\\bin\\clangd.exe+0x1a92e8a)\r\n #3 0x00007ff7a9f303ce (E:\\SH_Directory\\LLVM\\bin\\clangd.exe+0x1a903ce)\r\n #4 0x00007ff7a9f2a3ae (E:\\SH_Directory\\LLVM\\bin\\clangd.exe+0x1a8a3ae)\r\n #5 0x00007ff7a9f29e15 (E:\\SH_Directory\\LLVM\\bin\\clangd.exe+0x1a89e15)\r\n #6 0x00007ff7a9f76b0f (E:\\SH_Directory\\LLVM\\bin\\clangd.exe+0x1ad6b0f)\r\n #7 0x00007ff7a9f74e66 (E:\\SH_Directory\\LLVM\\bin\\clangd.exe+0x1ad4e66)\r\n #8 0x00007ff7a9f7e90e (E:\\SH_Directory\\LLVM\\bin\\clangd.exe+0x1ade90e)\r\n #9 0x00007ff7a9f7fc56 (E:\\SH_Directory\\LLVM\\bin\\clangd.exe+0x1adfc56)\r\n#10 0x00007ff7a9da1308 (E:\\SH_Directory\\LLVM\\bin\\clangd.exe+0x1901308)\r\n#11 0x00007ff7a9f31375 (E:\\SH_Directory\\LLVM\\bin\\clangd.exe+0x1a91375)\r\n#12 0x00007ff7a9d9ff1e (E:\\SH_Directory\\LLVM\\bin\\clangd.exe+0x18fff1e)\r\n#13 0x00007ff7a9d9f976 (E:\\SH_Directory\\LLVM\\bin\\clangd.exe+0x18ff976)\r\n#14 0x00007ff7a9d9e589 (E:\\SH_Directory\\LLVM\\bin\\clangd.exe+0x18fe589)\r\n#15 0x00007ff7a9efeb85 (E:\\SH_Directory\\LLVM\\bin\\clangd.exe+0x1a5eb85)\r\n#16 0x00007ff7a9efe509 (E:\\SH_Directory\\LLVM\\bin\\clangd.exe+0x1a5e509)\r\n#17 0x00007ff7a9f29c3e (E:\\SH_Directory\\LLVM\\bin\\clangd.exe+0x1a89c3e)\r\n#18 0x00007ff7a9d9dd9d (E:\\SH_Directory\\LLVM\\bin\\clangd.exe+0x18fdd9d)\r\n#19 0x00007ff7a9d9bfe4 (E:\\SH_Directory\\LLVM\\bin\\clangd.exe+0x18fbfe4)\r\n#20 0x00007ff7a9d9baa5 (E:\\SH_Directory\\LLVM\\bin\\clangd.exe+0x18fbaa5)\r\n#21 0x00007ff7a97e1175 (E:\\SH_Directory\\LLVM\\bin\\clangd.exe+0x1341175)\r\n#22 0x00007ff7a8f67f52 (E:\\SH_Directory\\LLVM\\bin\\clangd.exe+0xac7f52)\r\n#23 0x00007ff7a89096cf (E:\\SH_Directory\\LLVM\\bin\\clangd.exe+0x4696cf)\r\n#24 0x00007ff7a89606ee (E:\\SH_Directory\\LLVM\\bin\\clangd.exe+0x4c06ee)\r\n#25 0x00007ff7a895caf5 (E:\\SH_Directory\\LLVM\\bin\\clangd.exe+0x4bcaf5)\r\n#26 0x00007ff7a895c671 (E:\\SH_Directory\\LLVM\\bin\\clangd.exe+0x4bc671)\r\n#27 0x00007ff7a89b1fff (E:\\SH_Directory\\LLVM\\bin\\clangd.exe+0x511fff)\r\n#28 0x00007ffe40da1bb2 (C:\\WINDOWS\\System"
+[START][2023-05-31 21:31:51] LSP logging initiated
+[ERROR][2023-05-31 21:31:51] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[21:31:50.971] Failed to update E:\\SH_Directory\\MinGW\\Project\\刷题\\洛谷\\P1030\\main.cpp: Line value is out of range (2)\r\n"
+[START][2023-06-09 17:29:01] LSP logging initiated
+[WARN][2023-06-09 17:29:01] ...lsp/handlers.lua:137	"The language server html triggers a registerCapability handler despite dynamicRegistration set to false. Report upstream, this warning is harmless"
+[START][2023-06-09 17:40:36] LSP logging initiated
+[WARN][2023-06-09 17:40:36] ...lsp/handlers.lua:137	"The language server html triggers a registerCapability handler despite dynamicRegistration set to false. Report upstream, this warning is harmless"
+[START][2023-06-11 10:58:35] LSP logging initiated
+[ERROR][2023-06-11 10:58:35] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[10:58:35.235] Failed to decode textDocument/didOpen request: unresolvable URI at (root).textDocument.uri\r\nE[10:58:35.306] Failed to decode textDocument/documentSymbol request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-06-11 10:58:35] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[10:58:35.324] Failed to decode textDocument/semanticTokens/full request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-06-11 10:58:36] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[10:58:36.087] Failed to decode textDocument/documentSymbol request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-06-11 10:58:36] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[10:58:36.753] Failed to decode textDocument/didChange request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-06-11 10:58:36] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[10:58:36.800] Failed to decode textDocument/semanticTokens/full request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-06-11 10:58:37] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[10:58:37.357] Failed to decode textDocument/didChange request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-06-11 10:58:37] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[10:58:37.569] Failed to decode textDocument/semanticTokens/full request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-06-11 10:58:37] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[10:58:37.609] Failed to decode textDocument/didChange request: unresolvable URI at (root).textDocument.uri\r\nE[10:58:37.612] Failed to decode textDocument/completion request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-06-11 10:58:37] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[10:58:37.765] Failed to decode textDocument/didChange request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-06-11 10:58:37] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[10:58:37.880] Failed to decode textDocument/semanticTokens/full request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-06-11 10:58:38] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[10:58:38.802] Failed to decode textDocument/didChange request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-06-11 10:58:38] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[10:58:38.965] Failed to decode textDocument/didChange request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-06-11 10:58:39] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[10:58:39.105] Failed to decode textDocument/semanticTokens/full request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-06-11 10:58:39] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[10:58:39.181] Failed to decode textDocument/didChange request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-06-11 10:58:39] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[10:58:39.339] Failed to decode textDocument/didChange request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-06-11 10:58:39] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[10:58:39.434] Failed to decode textDocument/semanticTokens/full request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-06-11 10:58:39] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[10:58:39.497] Failed to decode textDocument/didChange request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-06-11 10:58:39] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[10:58:39.637] Failed to decode textDocument/semanticTokens/full request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-06-11 10:58:39] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[10:58:39.676] Failed to decode textDocument/didChange request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-06-11 10:58:39] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[10:58:39.885] Failed to decode textDocument/semanticTokens/full request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-06-11 10:58:40] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[10:58:40.142] Failed to decode textDocument/didChange request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-06-11 10:58:40] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[10:58:40.145] Failed to decode textDocument/completion request: unresolvable URI at (root).textDocument.uri\r\nE[10:58:40.145] Failed to decode textDocument/signatureHelp request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-06-11 10:58:40] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[10:58:40.357] Failed to decode textDocument/semanticTokens/full request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-06-11 10:58:40] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[10:58:40.632] Failed to decode textDocument/didChange request: unresolvable URI at (root).textDocument.uri\r\nE[10:58:40.636] Failed to decode textDocument/completion request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-06-11 10:58:40] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[10:58:40.796] Failed to decode textDocument/didChange request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-06-11 10:58:40] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[10:58:40.968] Failed to decode textDocument/semanticTokens/full request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-06-11 10:58:41] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[10:58:41.975] Failed to decode textDocument/didChange request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-06-11 10:58:42] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[10:58:42.139] Failed to decode textDocument/didChange request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-06-11 10:58:42] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[10:58:42.278] Failed to decode textDocument/semanticTokens/full request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-06-11 10:58:42] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[10:58:42.345] Failed to decode textDocument/didChange request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-06-11 10:58:42] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[10:58:42.557] Failed to decode textDocument/semanticTokens/full request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-06-11 10:58:42] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[10:58:42.708] Failed to decode textDocument/didChange request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-06-11 10:58:42] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[10:58:42.869] Failed to decode textDocument/didChange request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-06-11 10:58:43] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[10:58:43.009] Failed to decode textDocument/semanticTokens/full request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-06-11 10:58:43] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[10:58:43.119] Failed to decode textDocument/didChange request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-06-11 10:58:43] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[10:58:43.121] Failed to decode textDocument/completion request: unresolvable URI at (root).textDocument.uri\r\nE[10:58:43.122] Failed to decode textDocument/signatureHelp request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-06-11 10:58:43] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[10:58:43.320] Failed to decode textDocument/semanticTokens/full request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-06-11 10:58:43] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[10:58:43.704] Failed to decode textDocument/documentSymbol request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-06-11 10:58:48] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[10:58:48.015] Failed to decode textDocument/didChange request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-06-11 10:58:48] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[10:58:48.219] Failed to decode textDocument/semanticTokens/full request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-06-11 10:58:48] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[10:58:48.447] Failed to decode textDocument/didChange request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-06-11 10:58:48] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[10:58:48.657] Failed to decode textDocument/semanticTokens/full request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-06-11 10:58:48] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[10:58:48.730] Failed to decode textDocument/didChange request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-06-11 10:58:48] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[10:58:48.732] Failed to decode textDocument/completion request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-06-11 10:58:48] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[10:58:48.937] Failed to decode textDocument/semanticTokens/full request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-06-11 10:58:49] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[10:58:49.212] Failed to decode textDocument/didChange request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-06-11 10:58:49] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[10:58:49.420] Failed to decode textDocument/semanticTokens/full request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-06-11 10:58:50] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[10:58:50.026] Failed to decode textDocument/didChange request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-06-11 10:58:50] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[10:58:50.179] Failed to decode textDocument/didChange request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-06-11 10:58:50] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[10:58:50.241] Failed to decode textDocument/semanticTokens/full request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-06-11 10:58:50] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[10:58:50.866] Failed to decode textDocument/didChange request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-06-11 10:58:51] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[10:58:51.082] Failed to decode textDocument/semanticTokens/full request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-06-11 10:58:51] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[10:58:51.101] Failed to decode textDocument/didChange request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-06-11 10:58:51] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[10:58:51.103] Failed to decode textDocument/completion request: unresolvable URI at (root).textDocument.uri\r\nE[10:58:51.103] Failed to decode textDocument/signatureHelp request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-06-11 10:58:51] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[10:58:51.302] Failed to decode textDocument/semanticTokens/full request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-06-11 10:58:51] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[10:58:51.437] Failed to decode textDocument/didChange request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-06-11 10:58:51] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[10:58:51.438] Failed to decode textDocument/completion request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-06-11 10:58:51] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[10:58:51.648] Failed to decode textDocument/semanticTokens/full request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-06-11 10:58:51] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[10:58:51.672] Failed to decode textDocument/didChange request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-06-11 10:58:51] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[10:58:51.880] Failed to decode textDocument/semanticTokens/full request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-06-11 10:58:52] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[10:58:52.118] Failed to decode textDocument/didChange request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-06-11 10:58:52] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[10:58:52.311] Failed to decode textDocument/didChange request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-06-11 10:58:52] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[10:58:52.314] Failed to decode textDocument/completion request: unresolvable URI at (root).textDocument.uri\r\nE[10:58:52.315] Failed to decode textDocument/signatureHelp request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-06-11 10:58:52] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[10:58:52.519] Failed to decode textDocument/semanticTokens/full request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-06-11 10:58:52] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[10:58:52.706] Failed to decode textDocument/didChange request: unresolvable URI at (root).textDocument.uri\r\nE[10:58:52.707] Failed to decode textDocument/completion request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-06-11 10:58:52] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[10:58:52.862] Failed to decode textDocument/didChange request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-06-11 10:58:52] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[10:58:52.987] Failed to decode textDocument/semanticTokens/full request: unresolvable URI at (root).textDocument.uri\r\n"
+[ERROR][2023-06-11 10:58:53] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"E[10:58:53.746] Failed to decode textDocument/documentSymbol request: unresolvable URI at (root).textDocument.uri\r\n"
+[START][2023-06-28 17:42:00] LSP logging initiated
+[ERROR][2023-06-28 17:42:00] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"Signalled during AST worker action: Build AST\r\n  Filename: E:\\SH_Directory\\MinGW\\Project\\isl （重写中）\\string.hpp\r\n  Directory: E:\\SH_Directory\r\n  Command Line: E:\\SH_Directory\\LLVM\\bin\\clang-tool -std=c++2a --target=x86_64-pc-windows-gnu -xc++ -static -Wimplicit-function-declaration -driver-mode=g++ -I ./ -isystem E:/SH_Directory/MinGW/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++ -L E:/SH_Directory/ffmpeg/lib -isystem E:/SH_Directory/ffmpeg/include -resource-dir=E:\\SH_Directory\\LLVM\\lib\\clang\\16 -- E:\\SH_Directory\\MinGW\\Project\\isl （重写中）\\string.hpp\r\n  Version: 81\r\n"
+[ERROR][2023-06-28 17:42:01] .../vim/lsp/rpc.lua:734	"rpc"	"clangd"	"stderr"	"Exception Code: 0xC0000005\r\n #0 0x00007ff62c006c75 (E:\\SH_Directory\\LLVM\\bin\\clangd.exe+0x10f6c75)\r\n #1 0x00007ff62b7de39e (E:\\SH_Directory\\LLVM\\bin\\clangd.exe+0x8ce39e)\r\n #2 0x00007ff62cb508b9 (E:\\SH_Directory\\LLVM\\bin\\clangd.exe+0x1c408b9)\r\n #3 0x00007ff62cb4d5e4 (E:\\SH_Directory\\LLVM\\bin\\clangd.exe+0x1c3d5e4)\r\n #4 0x00007ff62cb4c7da (E:\\SH_Directory\\LLVM\\bin\\clangd.exe+0x1c3c7da)\r\n #5 0x00007ff62cb4c22e (E:\\SH_Directory\\LLVM\\bin\\clangd.exe+0x1c3c22e)\r\n #6 0x00007ff62cba2a75 (E:\\SH_Directory\\LLVM\\bin\\clangd.exe+0x1c92a75)\r\n #7 0x00007ff62cba1ea8 (E:\\SH_Directory\\LLVM\\bin\\clangd.exe+0x1c91ea8)\r\n #8 0x00007ff62cbab96e (E:\\SH_Directory\\LLVM\\bin\\clangd.exe+0x1c9b96e)\r\n #9 0x00007ff62cbaccc3 (E:\\SH_Directory\\LLVM\\bin\\clangd.exe+0x1c9ccc3)\r\n#10 0x00007ff62c9c6769 (E:\\SH_Directory\\LLVM\\bin\\clangd.exe+0x1ab6769)\r\n#11 0x00007ff62cb4e5c1 (E:\\SH_Directory\\LLVM\\bin\\clangd.exe+0x1c3e5c1)\r\n#12 0x00007ff62c9c53d8 (E:\\SH_Directory\\LLVM\\bin\\clangd.exe+0x1ab53d8)\r\n#13 0x00007ff62c9c4dab (E:\\SH_Directory\\LLVM\\bin\\clangd.exe+0x1ab4dab)\r\n#14 0x00007ff62c9c3956 (E:\\SH_Directory\\LLVM\\bin\\clangd.exe+0x1ab3956)\r\n#15 0x00007ff62cb2932e (E:\\SH_Directory\\LLVM\\bin\\clangd.exe+0x1c1932e)\r\n#16 0x00007ff62cb28c75 (E:\\SH_Directory\\LLVM\\bin\\clangd.exe+0x1c18c75)\r\n#17 0x00007ff62cb4c1fe (E:\\SH_Directory\\LLVM\\bin\\clangd.exe+0x1c3c1fe)\r\n#18 0x00007ff62c9c321c (E:\\SH_Directory\\LLVM\\bin\\clangd.exe+0x1ab321c)\r\n#19 0x00007ff62c9c15db (E:\\SH_Directory\\LLVM\\bin\\clangd.exe+0x1ab15db)\r\n#20 0x00007ff62c9c102f (E:\\SH_Directory\\LLVM\\bin\\clangd.exe+0x1ab102f)\r\n#21 0x00007ff62c3651f8 (E:\\SH_Directory\\LLVM\\bin\\clangd.exe+0x14551f8)\r\n#22 0x00007ff62ba545b2 (E:\\SH_Directory\\LLVM\\bin\\clangd.exe+0xb445b2)\r\n#23 0x00007ff62b3a6a4a (E:\\SH_Directory\\LLVM\\bin\\clangd.exe+0x496a4a)\r\n#24 0x00007ff62b4026b5 (E:\\SH_Directory\\LLVM\\bin\\clangd.exe+0x4f26b5)\r\n#25 0x00007ff62b3fe565 (E:\\SH_Directory\\LLVM\\bin\\clangd.exe+0x4ee565)\r\n#26 0x00007ff62b3fe0f6 (E:\\SH_Directory\\LLVM\\bin\\clangd.exe+0x4ee0f6)\r\n#27 0x00007ff62b457f8f (E:\\SH_Directory\\LLVM\\bin\\clangd.exe+0x547f8f)\r\n#28 0x00007fffab8c1bb2 (C:\\WINDOWS\\Syste"
